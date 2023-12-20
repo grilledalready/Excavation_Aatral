@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - ButtonActivator
+  - PPE
   layers:
   - Default
   - TransparentFX
@@ -26,16 +27,16 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Head
+  - LeftHand
+  - RightHand
+  - LeftFoot
+  - RightFoot
+  - Eyes
+  - Jacket
+  - Face
+  - Ears
+  - Apron
   - 
   - 
   m_SortingLayers:

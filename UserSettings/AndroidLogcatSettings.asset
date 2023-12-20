@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "1WMHHA67TV2425",
         "name": "com.dilmergames.handtrackingdemo",
-        "processId": 8415,
+        "processId": 31016,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -180,6 +180,66 @@
             "deviceId": "1WMHHA67TV2425",
             "name": "com.dilmergames.handtrackingdemo",
             "processId": 8415,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHHA67TV2425",
+            "name": "com.dilmergames.handtrackingdemo",
+            "processId": 22336,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHHA67TV2425",
+            "name": "com.dilmergames.handtrackingdemo",
+            "processId": 25874,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHHA67TV2425",
+            "name": "com.dilmergames.handtrackingdemo",
+            "processId": 26993,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHHA67TV2425",
+            "name": "com.dilmergames.handtrackingdemo",
+            "processId": 27883,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHHA67TV2425",
+            "name": "com.dilmergames.handtrackingdemo",
+            "processId": 28292,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHHA67TV2425",
+            "name": "com.dilmergames.handtrackingdemo",
+            "processId": 28861,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHHA67TV2425",
+            "name": "com.dilmergames.handtrackingdemo",
+            "processId": 29382,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHHA67TV2425",
+            "name": "com.dilmergames.handtrackingdemo",
+            "processId": 30018,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHHA67TV2425",
+            "name": "com.dilmergames.handtrackingdemo",
+            "processId": 30671,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHHA67TV2425",
+            "name": "com.dilmergames.handtrackingdemo",
+            "processId": 31016,
             "exited": false
         }
     ],
