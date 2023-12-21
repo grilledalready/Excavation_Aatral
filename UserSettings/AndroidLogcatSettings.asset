@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "1WMHHA67TV2425",
         "name": "com.dilmergames.handtrackingdemo",
-        "processId": 31016,
+        "processId": 5915,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -240,6 +240,12 @@
             "deviceId": "1WMHHA67TV2425",
             "name": "com.dilmergames.handtrackingdemo",
             "processId": 31016,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHHA67TV2425",
+            "name": "com.dilmergames.handtrackingdemo",
+            "processId": 5915,
             "exited": false
         }
     ],
